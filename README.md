@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Erman ARISOY 
 #### I'm a Husband, Father, Developer, and Teacher!!
-I am well-qualified Full Stack Developer familiar with wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of process with ease. Collaborative team player with excellent technical abilities offering 5 years of related expreience.
+I am well-qualified .Net Developer familiar with wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of process with ease. Collaborative team player with excellent technical abilities offering 5 years of related expreience.
 
 Skills: C# / .Net / Entity Framework / Asp.Net Mvc / .Net Core / Wcf / WPF / Json / Postman / Json / xml / Elasticsearch / Web API / MSSQL / jQuery / JS / HTML / CSS / Bootstrap
 
