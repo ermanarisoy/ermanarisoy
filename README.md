@@ -2,16 +2,15 @@
 #### I'm a Husband, Father, Developer and Teacher!!
 I am well-qualified .Net Developer familiar with wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of process with ease. Collaborative team player with excellent technical abilities offering more than 5 years of related expreience.
 
-Skills: C# / .Net / Entity Framework / Asp.Net Mvc / .Net Core / Wcf / WPF / Json / Postman / xml / Elasticsearch / Web API / MSSQL / jQuery / JS / HTML / CSS / Bootstrap
+Skills: C# / .Net / Entity Framework / Asp.Net Mvc / .Net Core / Wcf / WPF / Json / Postman / xml / Elasticsearch / Web API / MSSQL / jQuery / JS / HTML / CSS / Bootstrap / Microservices / Docker / RabbitMQ / MongoDb / gRPC
 
-- 🔭 I’m currently working on https://app.munazzo.com/ 
-- 🌱 I’m currently learning microservices and react. 
+- 🌱 I’m currently learning react. 
 - 📫 How to reach me: ermanarisoy@outlook.com 
 - ⚡ Fun fact: I like to read and play table tennis. 
 
 ### Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/erman-ar%C4%B1soy-164359183//)  
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ermanarisoy//)  
 
 ### Languages and Tools:
 
